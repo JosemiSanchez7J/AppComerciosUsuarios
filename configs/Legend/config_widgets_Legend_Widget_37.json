@@ -1,0 +1,20 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": false
+  },
+  "layerState": {
+    "Barrios_y_Distritos_WFL1_7839": {
+      "selected": false
+    },
+    "Barrios_y_Distritos_WFL1_4332": {
+      "selected": true
+    },
+    "Comercios_y_candidatos_7394": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
